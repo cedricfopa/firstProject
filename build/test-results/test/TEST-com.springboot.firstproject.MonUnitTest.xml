@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.springboot.firstproject.MonUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-06T09:29:30" hostname="cedric-ghost" time="0.056">
+  <properties/>
+  <testcase name="testAddNomber()" classname="com.springboot.firstproject.MonUnitTest" time="0.056"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
